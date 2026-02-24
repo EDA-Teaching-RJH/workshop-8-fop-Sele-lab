@@ -1,2 +1,5 @@
 import re
-if re.search(r"\d07.{m}")
+if re.search():
+    print("valid")
+else:
+    print("invalid")
