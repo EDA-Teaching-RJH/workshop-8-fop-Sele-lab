@@ -1,7 +1,7 @@
 import json
 
 data = {
-    "license": "MIT",
+    "license plate": "ABC123",
     "Manufacturing date": "2024-06-01",
     "Expiration date": "2025-06-01",
     "Owner": "John Doe",
